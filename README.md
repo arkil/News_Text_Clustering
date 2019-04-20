@@ -17,5 +17,3 @@ after DBSCAN and assign noise points to the closest cluster.
 
 Evaluation metric -- Normalized Mutual Information Score (NMI)
 
-
-I
