@@ -2,8 +2,7 @@
 
 Input data (provided as training data) consists of 8580 text records in sparse format.
 
-Cluster the data such that you obtain > 100 clusters using an off-the-shelf clustering
-method (e.g., K-means).
+Cluster the data to obtain > 100 clusters using K-Means.
 
 A variation of the DBSCAN clustering algorithm that takes as input clusters,
 rather than individual points. Compute inter-cluster distances to identify which points
